@@ -1,10 +1,10 @@
 ### input 
+
 ```
 name = input("Enter your name: ")
 print("Hello", name)
-```bash
+```
 
----
 
 ### input in **int**
 ```
@@ -14,7 +14,7 @@ num2 = input("Enter another number: ")
 sum = (num1 + int(num2))
 
 print("addition is:",sum) 
-```bash
+```
 
 ---
 
@@ -27,7 +27,7 @@ if age >= 18 :
     print("You can VOTE")
 else:
     print("You can not VOTE")
-```bash
+```
 
 ---
 
@@ -46,7 +46,7 @@ elif marks >= 40 :
     print("Grade D")
 else :
     print("FAIL")
-```bash
+```
 
 ---
 ```
@@ -57,7 +57,7 @@ elif cpu_usage >= 50 :
     print("WORKING: normal")
 else :
     print("Good")
-```bash
+```
 
 ---
 
