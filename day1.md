@@ -60,4 +60,13 @@ else :
 ```
 
 ---
-
+**Password deny**
+```
+correct_password = "sachin123"
+password = ""
+while password != correct_password :
+    password = input("Please enter your password : ")
+    if password != correct_password :
+        print("Wrong password try again")
+print("Access Granted")
+```
