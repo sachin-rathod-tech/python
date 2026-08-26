@@ -50,3 +50,11 @@ print(my_set)
 my_set.remove("seema")
 print(my_set)
 ```
+---
+
+# 🧠 Short trick
+
+* List → Change allowed
+* Tuple → Change not allowed
+* Set → Duplicate not allowed
+* Dictionary → Key + Value
